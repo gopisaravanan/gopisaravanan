@@ -6,20 +6,20 @@
 ---
 
 ## 📫 Let's Connect!
-- Email: [gopisaravanan1398@gmail.com](mailto:gopisaravanan1398@gmail.com)
-- LinkedIn: [linkedin.com/in/gopisaravanan](https://www.linkedin.com/in/gopi-saravanan-b812b7249/)
-- Portfolio: [gopisaravanan.com](https://gopisaravanan.netlify.app/)
+- 📧 [Email](mailto:gopisaravanan1398@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gopi-saravanan-b812b7249/)
+- 🌐 [Portfolio](https://gopisaravanan.netlify.app/)
 
 ---
 
 ## 📊 GitHub Stats
-![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gopisaravanan&theme=tokyonight)](https://git.io/streak-stats)
+![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=light)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gopisaravanan&theme=light)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=light&column=4&margin-w=15&margin-h=15)
 
 ---
 
@@ -73,4 +73,23 @@
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=light)
+
+---
+
+## ✨ Philosophy  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🌱 Currently Learning
+- **AI** and **Cloud Technologies**  
+- **Deep Dive** into **Data Structures and Algorithms (DSA)**  
+
+---
+
+## 💬 Let's Chat!
+Feel free to reach out via email or LinkedIn if you want to collaborate, chat about technology, or just geek out over some cool projects!
+
+---
+
