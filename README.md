@@ -83,7 +83,6 @@
 ---
 
 ## 🌱 Currently Learning
-- **AI** and **Cloud Technologies**  
 - **Deep Dive** into **Data Structures and Algorithms (DSA)**  
 
 ---
