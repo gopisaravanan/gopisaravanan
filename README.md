@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gopi Saravanan!
 
-🌟 A passionate MERN Stack Developer with 2+ years of experience in building web applications.  
+🌟 A passionate MERN Stack Developer with 3 years of experience in building web applications.  
 🚀 I love solving real-world problems using technology and exploring the latest web development trends.
 
 ---
