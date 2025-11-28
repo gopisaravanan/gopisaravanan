@@ -8,7 +8,7 @@
 ## 📫 Let's Connect!
 - 📧 [Email](mailto:gopisaravanan1398@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gopi-saravanan-b812b7249/)
-- 🌐 [Portfolio](https://gopisaravanan.netlify.app/)
+- 🌐 [Portfolio](https://gopisaravanan.vercel.app/)
 
 ---
 
