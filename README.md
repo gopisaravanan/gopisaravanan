@@ -40,19 +40,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=github" />
-</p>
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
