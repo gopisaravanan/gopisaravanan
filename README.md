@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gopi Saravanan!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;3%2B+Years+Experience;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;GenAI+Engineer;3%2B+Years+Experience;React+%7C+Node+%7C+MySQL;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -43,9 +43,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+---
 
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=github" />
+</p>
 ---
 
 ## 📈 Contribution Graph
