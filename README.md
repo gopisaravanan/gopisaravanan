@@ -48,13 +48,6 @@
 
 ---
 
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=github" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -81,14 +74,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,jenkins,nginx,webpack,postman" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-* 🔹 Add your best project (with live demo)
-* 🔹 Add GitHub repo links
-* 🔹 Example: MERN E-commerce App
 
 ---
 
