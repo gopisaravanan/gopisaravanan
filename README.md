@@ -1,94 +1,120 @@
 # Hi there 👋, I'm Gopi Saravanan!
 
-🌟 A passionate MERN Stack Developer with 3 years of experience in building web applications.  
-🚀 I love solving real-world problems using technology and exploring the latest web development trends.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;3%2B+Years+Experience;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- 📧 [Email](mailto:gopisaravanan1398@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gopi-saravanan-b812b7249/)
-- 🌐 [Portfolio](https://gopisaravanan.vercel.app/)
+## 🚀 About Me
+
+🌟 Passionate **MERN Stack Developer** with 3+ years of experience
+💡 Love building real-world applications and scalable systems
+🌱 Currently learning **DSA, AI & Cloud Technologies**
+⚡ Fun fact: *Why do it manually when you can automate it?*
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [gopisaravanan1398@gmail.com](mailto:gopisaravanan1398@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/gopi-saravanan-b812b7249/
+* 🌐 Portfolio: https://gopisaravanan.vercel.app/
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gopisaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=light)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gopisaravanan&theme=light)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=github&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=gopisaravanan&theme=github&cache_seconds=1800" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=light&column=4&margin-w=15&margin-h=15)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)
+## 📈 Contribution Graph
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
-![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-003399?style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=flat)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopisaravanan&theme=github-light" />
+</p>
 
 ---
 
-## 🌟 Fun Facts  
-- 💻 I started coding by Googling **"How to build a website"**—and here we are!  
-- 🌱 Currently exploring the wonders of **AI**, **cloud technologies**, and diving deep into **Data Structures and Algorithms (DSA)** to level up my problem-solving skills.  
-- 🎮 Gamer by night, developer by day, coffee enthusiast 24/7.  
-- 🚀 My code works 99% of the time… the other 1%? It’s a *feature*! 😉  
-- 🛠️ I firmly believe in the philosophy: **“Why do it manually when you can script it?”**  
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=github" />
+</p>
 
 ---
 
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=light)
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,jenkins,nginx,webpack,postman" />
+</p>
 
 ---
 
-## ✨ Philosophy  
+## 🚀 Featured Projects
+
+* 🔹 Add your best project (with live demo)
+* 🔹 Add GitHub repo links
+* 🔹 Example: MERN E-commerce App
+
+---
+
+## 🌟 Fun Facts
+
+* 💻 Started coding by Googling *"How to build a website"*
+* 🎮 Gamer by night, developer by day
+* ☕ Coffee enthusiast
+* 🛠️ Automation lover
+
+---
+
+## ✨ Quote
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
-## 🌱 Currently Learning
-- **Deep Dive** into **Data Structures and Algorithms (DSA)**  
+## 💬 Let's Collaborate!
 
----
-
-## 💬 Let's Chat!
-Feel free to reach out via email or LinkedIn if you want to collaborate, chat about technology, or just geek out over some cool projects!
-
----
-
+💡 Open for freelance, collaborations & exciting projects 🚀
